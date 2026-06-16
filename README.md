@@ -41,9 +41,7 @@ Which states perform best? What is the monthly order trend?
 
 ## 📸 Dashboard Preview
 ![Dashboard](Screenshot/dashboard.png)
-
 ![Products_overvier](Screenshot/products.png)
-
 ![States_overview](Screenshot/states.png)
 
 ## 🗄️ SQL Queries
