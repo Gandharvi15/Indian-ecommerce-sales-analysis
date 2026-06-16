@@ -20,7 +20,7 @@ Which states perform best? What is the monthly order trend?
 ## 📊 Dataset Overview
 | Field | Value |
 |-------|-------|
-| Total Records | 117,328 orders |
+| Total Records | 16,384 orders  |
 | Total Revenue | ₹4.47 Crore |
 | Time Period | 2016 – 2018 |
 | Columns | order_id, states, Product, Revenue, Month, Year, order_status, review_score |
