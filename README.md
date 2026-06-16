@@ -21,16 +21,20 @@ Which states perform best? What is the monthly order trend?
 | Field | Value |
 |-------|-------|
 | Total Records | 117,328 orders |
-| Total Revenue | ₹34.3 Crore |
+| Total Revenue | ₹4.47 Crore |
 | Time Period | 2016 – 2018 |
 | Columns | order_id, states, Product, Revenue, Month, Year, order_status, review_score |
 
 ## 🔍 Key Findings
-- Total revenue of **₹34.3 Crore** across 117K+ orders
-- **Odisha & Assam** are top revenue-generating states
-- Consistent **YoY revenue growth**: ₹12L (2016) → ₹18.7Cr (2018)
-- Watches & Gifts and Beauty & Health are top revenue categories
-- Cancellation rate analysis revealed high-risk product segments
+- Total Revenue: **₹4.47 Crore** across 16,384 orders 
+  (filtered view — full dataset: ₹34.3Cr, 117K+ orders)
+- **Watches & Gifts** and **Bedroom Furniture** are 
+  top revenue-generating categories
+- **Andra Pradesh & Assam** are top revenue-generating states
+- Revenue peaked in **mid-2017** then stabilized through 2018
+- **Bags & Accessories** and **Gaming PC** also among 
+  top performing categories
+- Avg Order Value: **₹2,731** per order
 
 ## 📈 Excel Dashboard Features
 - 3 KPI Cards — Total Revenue, Total Orders, Avg Order Value
