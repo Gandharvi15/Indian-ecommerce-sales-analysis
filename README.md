@@ -30,7 +30,7 @@ Which states perform best? What is the monthly order trend?
   (filtered view — full dataset: ₹34.3Cr, 117K+ orders)
 - **Watches & Gifts** and **Bedroom Furniture** are 
   top revenue-generating categories
-- **Andra Pradesh & Assam** are top revenue-generating states
+- **Andhra Pradesh & Assam** are top revenue-generating states
 - Revenue peaked in **mid-2017** then stabilized through 2018
 - **Bags & Accessories** and **Gaming PC** also among 
   top performing categories
